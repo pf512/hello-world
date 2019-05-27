@@ -25,6 +25,6 @@ phases:
 artifacts:
   files:
     - hello-world/hello-world
-    - packaged.yml
+    - packaged.yaml
 
 

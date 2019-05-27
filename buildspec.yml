@@ -19,4 +19,4 @@ phases:
       - ls hello-world
 artifacts:
   files:
-    - hello-world/main
+    - hello-world/hello-world
